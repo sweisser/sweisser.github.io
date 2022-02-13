@@ -23,4 +23,3 @@ mount: block device /dev/mapper/mydvd is write-protected, mounting read-only
 
 ````
 
-[Linux](linux.md)
