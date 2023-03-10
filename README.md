@@ -33,6 +33,13 @@ let stream = stream::iter(vec![17, 19]);
 assert_eq!(vec![17, 19], stream.collect::<Vec<i32>>().await);
 ````
 
+Experiments with streams and buffering.
+
+I highly recommended this article:
+
+https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html
+https://gendignoux.com/blog/2021/04/08/rust-async-streams-futures-part2.html
+
 
 ````rust
 use std::future::Future;
