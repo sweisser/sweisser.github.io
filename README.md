@@ -22,6 +22,7 @@ mount: block device /dev/mapper/mydvd is write-protected, mounting read-only
 # cryptsetup luksClose /dev/mapper/mydvd
 
 ````
+[Rust Streams](streams.md)
 
 ### Rust Streams
 
