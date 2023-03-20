@@ -14,6 +14,7 @@ Experiments with streams and buffering.
 I can highly recommended this article:
 
 [Rust Async Streams - Part 1](https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html)
+
 [Rust Async Streams - Part 2](https://gendignoux.com/blog/2021/04/08/rust-async-streams-futures-part2.html)
 
 
