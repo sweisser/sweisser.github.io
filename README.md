@@ -4,4 +4,6 @@
 
 [Rust Streams](streams.md)
 
+[Rust Streams Exploration](streams_hierarchy.md)
+
 [WebAssembly](wasm.md)
