@@ -7,3 +7,5 @@
 [Rust Streams Exploration](streams_hierarchy.md)
 
 [WebAssembly](wasm.md)
+
+[Formulas](formulas.md)
