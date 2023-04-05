@@ -8,4 +8,4 @@
 
 [WebAssembly](wasm.md)
 
-[Formulas](formulas.md)
+[Formulas](formulas.html)
