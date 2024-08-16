@@ -1,4 +1,4 @@
-# Privacy Policy for SimpleGPS (draft)
+# Privacy Policy for SimpleGPS
 
 ## Introduction
 
